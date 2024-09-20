@@ -2,7 +2,7 @@
 Envío de la primera practica en definir variables
 
 print("")
-print("Sheccid Alfaro Ibarra 3W")
+print("Alfaro Ibarra Sheccid 3W. Variables")
 
 x=24 #definir variable x
 y=20 #definir variable y
@@ -12,6 +12,7 @@ print(y)#se muestra en pantalla
 print("")
 
 
-![image](https://github.com/user-attachments/assets/6785279e-321b-42df-96b4-022e7487ec3a)
+![image](https://github.com/user-attachments/assets/1573dafb-f0b3-44ba-bbf7-5fbd914b9772)
+
 
 
